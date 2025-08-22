@@ -85,5 +85,3 @@ ___
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FumoRin&layout=compact&theme=radical)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=FumoRin&theme=dark)
-
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=FumoRin&theme=react-dark)
