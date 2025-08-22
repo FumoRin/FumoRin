@@ -79,20 +79,11 @@ What I'm learning & planning
 - Improving full-stack app architecture and testing.
 - Planning to start contributing to open-source projects down the line.
 
-Showcase: Coding Frequency & Stats
-- Add live GitHub stats and activity visuals to show coding frequency. Below are ready-to-use badges/snippets — replace FumoRin with your GitHub username and paste them into this README.
-
-GitHub Readme Stats 
+___
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FumoRin&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FumoRin&layout=compact&theme=radical)
 
-GitHub Streak / Activity
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=FumoRin&theme=dark)
+
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=FumoRin&theme=react-dark)
-
-Optional: WakaTime (coding time)
-- If you use WakaTime, add your WakaTime widget to showcase weekly/monthly coding time.
-
-Projects & Contributions
-- Forum Kesiswaan Cimahi — short description and link (add link when available)
-- Future: Open-source contributions — I plan to start contributing to relevant React/Node projects.
